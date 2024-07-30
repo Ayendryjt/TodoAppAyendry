@@ -27,4 +27,4 @@ $ npm start # or yarn start
 
 # Imagen
 
-![Foto de prueba](./images/TodoApp.png)
+![Foto de prueba](./images/TodoApp.jpg)
